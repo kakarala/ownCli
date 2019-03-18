@@ -1,0 +1,26 @@
+{
+  "name": "demo01",
+  "version": "1.0.0",
+  "description": "a tutorial to make your own cli program",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kakarala/ownCli.git"
+  },
+  "bin": {
+    "own-cli": "bin/own-cli"
+  },
+  "keywords": [
+    "cli",
+    "node"
+  ],
+  "author": "kakarala",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kakarala/ownCli/issues"
+  },
+  "homepage": "https://github.com/kakarala/ownCli#readme"
+}
